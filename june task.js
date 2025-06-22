@@ -62,4 +62,20 @@ console.log(marks);
     console.log(value);
 }
 name
- age
+age
+
+//for of
+
+let arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+for(let value of arr){
+    console.log(value);
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+ 10
