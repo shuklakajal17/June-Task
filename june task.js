@@ -55,3 +55,11 @@ console.log(marks);
 
    //Replace element
    arr.splice(3, 1, 101);
+
+   //for in 
+   { name: "John", age: 25 }
+   for(let value in obj) {
+    console.log(value);
+}
+name
+ age
